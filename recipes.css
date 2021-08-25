@@ -1,0 +1,30 @@
+#block-ebe460dfbcee4e81aed82d4eb25af43e {
+  align-self: flex-start !important;
+  position: sticky !important;
+  top: 50px !important;
+}
+
+.super-content {
+  padding-right: 10px !important;
+}
+
+.notion-header__content {
+  padding-right: 10px !important;
+}
+
+.notion-header__title {
+  text-align: center !important;
+}
+
+.notion-page__property-name {
+  display: none !important;
+}
+
+.notion-page__property {
+  display: flex !important;
+}
+
+.notion-property {
+  display: flex !important;
+  justify-content: center !important;
+}
