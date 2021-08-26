@@ -160,7 +160,7 @@ h3 {
 }
 
 /* Make sticky sidebar. Replace with your own block ID */
-#block-50a6bc93fda24f0da238d89d8a8655eb {
+#block-fb70184c65eb45a3bdbd516d4360f446 {
   align-self: flex-start !important;
   position: sticky !important;
   top: 115px !important;
@@ -188,7 +188,7 @@ h3 {
     min-height: 200px !important;
   }
 
-  #block-50a6bc93fda24f0da238d89d8a8655eb {
+  #block-fb70184c65eb45a3bdbd516d4360f446 {
     position: relative !important;
     align-self: auto !important;
     top: auto !important;
