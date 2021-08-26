@@ -200,3 +200,7 @@ h3 {
 #block-ad16c910da4647e890c29cb06a9185d5 {
   display: none !important;
 }
+
+.notion-page__properties {
+  display: none !important;
+}
